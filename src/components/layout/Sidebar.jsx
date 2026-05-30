@@ -193,6 +193,20 @@ export default function Sidebar() {
           <ProfileModal onClose={() => setShowProfileEdit(false)} />
         )}
       </AnimatePresence>
+
+      {/* Mobile backdrop - closes sidebar when tapped */}
+      <AnimatePresence>
+        {sidebarOpen && (
+          <motion.div
+            className="sidebar-backdrop"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            onClick={toggleSidebar}
+          />
+        )}
+      </AnimatePresence>
     </>
   );
 }
