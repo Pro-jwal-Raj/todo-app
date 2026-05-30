@@ -302,4 +302,4 @@ Click your **avatar** (the circle with your initial) in the sidebar to:
 
 ## Support
 
-If you encounter any issues, please [open an issue](https://github.com/YOUR_USERNAME/todo-app/issues) on GitHub.
+If you encounter any issues, please [open an issue](https://github.com/Pro-jwal-Raj/todo-app/issues) on GitHub.

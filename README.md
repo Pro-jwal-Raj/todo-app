@@ -43,7 +43,7 @@ A full-featured, production-grade task management application built with React, 
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/Pro-jwal-Raj/todo-app.git
 cd todo-app
 npm install
 ```

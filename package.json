@@ -8,7 +8,7 @@
   "keywords": ["task-manager", "todo", "kanban", "pomodoro", "collaboration", "react", "supabase"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/todo-app"
+    "url": "https://github.com/Pro-jwal-Raj/todo-app"
   },
   "type": "module",
   "scripts": {
